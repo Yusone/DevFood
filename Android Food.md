@@ -12,6 +12,8 @@
 
 [Git_廖雪峰](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+[SSH原理与运用](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
+
 #### ADB
 [Awesome-ADB](https://github.com/mzlogin/awesome-adb)
 
