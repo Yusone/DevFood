@@ -8,6 +8,8 @@
 #### Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
+[Git官方文档](https://git-scm.com/book/zh/v2)
+
 [Git_廖雪峰](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 #### ADB
