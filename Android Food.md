@@ -1,11 +1,13 @@
-#### View视图绘制
+### View视图绘制
 [Android视图绘制](https://blog.csdn.net/column/details/13034.html)
 
 [ColorMatrix](https://blog.csdn.net/u010635353/article/details/52955630)
 
 [Android视图绘制Demo](https://github.com/lygttpod/AndroidCustomView/blob/master/README.md)
 
-#### Git
+[使用DashPathEffect绘制一条动画曲线](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0907/3429.html)
+
+### Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
 [Git官方文档](https://git-scm.com/book/zh/v2)
@@ -14,16 +16,16 @@
 
 [SSH原理与运用](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
 
-#### ADB
+### ADB
 [Awesome-ADB](https://github.com/mzlogin/awesome-adb)
 
-#### 性能
+### 性能
 [如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
 
 [分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
 
 
-#### 算法
+### 算法
 [排序和搜索](http://wdxtub.com/2016/01/23/programmer-startline-8/)
 
 []()
