@@ -1,3 +1,12 @@
+
+[]()
+## Handler
+[Handler 消息机制原理解析](http://will-ls.top/Handler.html)
+
+## Activity
+[生命周期全面分析](http://will-ls.top/Android-Life%20cycle.html)
+
+
 ## View原理
 [Android View 的工作流程和原理](http://will-ls.top/View-WorkingPrinciple.html)
 
