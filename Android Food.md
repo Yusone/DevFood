@@ -36,6 +36,8 @@
 
 [分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
 
+## Gradle
+[Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
 ## 算法
 [排序和搜索](http://wdxtub.com/2016/01/23/programmer-startline-8/)
