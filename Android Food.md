@@ -1,5 +1,8 @@
 
 []()
+
+# Android模块
+
 ## Handler
 [Handler 消息机制原理解析](http://will-ls.top/Handler.html)
 
@@ -19,6 +22,12 @@
 
 [使用DashPathEffect绘制一条动画曲线](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0907/3429.html)
 
+## 性能
+[如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
+
+[分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
+
+# Android 支持
 ## Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
@@ -31,13 +40,14 @@
 ## ADB
 [Awesome-ADB](https://github.com/mzlogin/awesome-adb)
 
-## 性能
-[如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
-
-[分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
-
 ## Gradle
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
+
+## RxJava
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
+
+# Android 基础
 
 ## 算法
 [排序和搜索](http://wdxtub.com/2016/01/23/programmer-startline-8/)
