@@ -31,4 +31,8 @@
 ## 算法
 [排序和搜索](http://wdxtub.com/2016/01/23/programmer-startline-8/)
 
+## 书
+[Effective Java视频](http://list.youku.com/albumlist/show?id=26144426&ascending=1&page=1)
+
+
 []()
