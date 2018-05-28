@@ -1,3 +1,6 @@
+## View原理
+[Android View 的工作流程和原理](http://will-ls.top/View-WorkingPrinciple.html)
+
 ## View视图绘制
 [Android视图绘制](https://blog.csdn.net/column/details/13034.html)
 
