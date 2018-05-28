@@ -1,4 +1,4 @@
-### View视图绘制
+## View视图绘制
 [Android视图绘制](https://blog.csdn.net/column/details/13034.html)
 
 [ColorMatrix](https://blog.csdn.net/u010635353/article/details/52955630)
@@ -7,7 +7,7 @@
 
 [使用DashPathEffect绘制一条动画曲线](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0907/3429.html)
 
-### Git
+## Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
 [Git官方文档](https://git-scm.com/book/zh/v2)
