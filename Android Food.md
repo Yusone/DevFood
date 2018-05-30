@@ -44,6 +44,8 @@
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
 ## RxJava
+[RxAndroid使用初探—简洁、优雅、高效](https://www.jianshu.com/p/517c3f4c7bc1)
+
 [RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 [RxJava 使用](https://www.jianshu.com/p/19cac3c5b106)
