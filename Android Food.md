@@ -50,6 +50,11 @@
 
 [RxJava 使用](https://www.jianshu.com/p/19cac3c5b106)
 
+## Retrofit
+[Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
+
+
+
 # Android 基础
 
 ## 算法
