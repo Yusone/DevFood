@@ -27,6 +27,12 @@
 
 [分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
 
+## Spinner
+[微调框](https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh-cn)
+[android Spinner控件详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html)
+
+
+
 # Android 支持
 ## Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
