@@ -1,6 +1,8 @@
 
 []()
 
+
+
 # Android模块
 
 ## Handler
@@ -79,5 +81,8 @@
 ## 书
 [Effective Java视频](http://list.youku.com/albumlist/show?id=26144426&ascending=1&page=1)
 
+
+# 技术博客
+[Android 每日一文](https://github.com/fengdianzhang/daily/blob/master/README.md)
 
 []()
