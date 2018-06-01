@@ -56,6 +56,8 @@
 
 [RxJava 使用](https://www.jianshu.com/p/19cac3c5b106)
 
+[Rxjava2总结](https://luhaoaimama1.github.io/2017/07/31/rxjava/)
+
 ## Retrofit
 [Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
 
