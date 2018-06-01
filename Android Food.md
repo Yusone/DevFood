@@ -49,6 +49,9 @@
 ## Gradle
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
+## Lambda
+[Android中的Lambda表达式详解](https://maxwell-nc.github.io/android/retrolambda.html)
+
 ## RxJava
 [RxAndroid使用初探—简洁、优雅、高效](https://www.jianshu.com/p/517c3f4c7bc1)
 
