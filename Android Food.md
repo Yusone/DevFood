@@ -59,8 +59,10 @@
 ## Retrofit
 [Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
 
-Dagger2
+## Dagger2
 [Dagger2 最清晰的使用教程](https://www.jianshu.com/p/24af4c102f62)
+
+[Dagger 2 完全解析（一）](https://www.jianshu.com/p/26d9f99ea3bb)
 
 # Android 基础
 
