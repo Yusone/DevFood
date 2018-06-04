@@ -51,6 +51,10 @@
 ## Gradle
 [Gradle 完整指南（Android）](https://www.jianshu.com/p/9df3c3b6067a)
 
+[android gradle依赖：implementation 和compile的区别](https://www.jianshu.com/p/f34c179bc9d0)
+
+[com.android.support冲突的解决办法](https://blog.csdn.net/yuzhiqiang_1993/article/details/78214812)
+
 ## Lambda
 [Android中的Lambda表达式详解](https://maxwell-nc.github.io/android/retrolambda.html)
 
@@ -73,10 +77,7 @@
 
 [Dagger 2 完全解析（一）](https://www.jianshu.com/p/26d9f99ea3bb)
 
-## Android Studio 依赖
-[Android Studio3.x新的依赖方式（implementation、api、compileOnly）](https://blog.csdn.net/yuzhiqiang_1993/article/details/78366985)
 
-[com.android.support冲突的解决办法](https://blog.csdn.net/yuzhiqiang_1993/article/details/78214812)
 
 # Android 基础
 
