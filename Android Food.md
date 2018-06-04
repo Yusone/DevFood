@@ -69,6 +69,8 @@
 
 [RxJava 2.x 使用详解(一) 快速入门](https://maxwell-nc.github.io/android/rxjava2-1.html)
 
+[RxJava2 浅析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0907/6604.html)
+
 ## Retrofit
 [Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
 
