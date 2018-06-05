@@ -73,6 +73,7 @@
 
 ## Retrofit
 [Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
+[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
 
 ## Dagger2
 [Dagger2 最清晰的使用教程](https://www.jianshu.com/p/24af4c102f62)
