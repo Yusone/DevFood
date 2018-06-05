@@ -31,6 +31,7 @@
 
 ## Spinner
 [微调框](https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh-cn)
+
 [android Spinner控件详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html)
 
 
@@ -73,6 +74,7 @@
 
 ## Retrofit
 [Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
+
 [RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
 
 ## Dagger2
