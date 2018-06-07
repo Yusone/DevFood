@@ -88,7 +88,7 @@
 
 # Android 基础
 
-[Android基础总结](https://blog.lijunbo.com/1986/08/03/android-base/)
+[Android基础总结：Android官方课程、View、WebView、性能优化、AS Plugin、组件化、MVP、单元测试](https://blog.lijunbo.com/1986/08/03/android-base/)
 
 ## 算法
 [排序和搜索](http://wdxtub.com/2016/01/23/programmer-startline-8/)
