@@ -83,6 +83,7 @@
 
 [Dagger 2 完全解析（一）](https://www.jianshu.com/p/26d9f99ea3bb)
 
+[依赖注入神器：Dagger2详解系列 ](https://dreamerhome.github.io/2016/07/07/dagger/)
 
 
 # Android 基础
