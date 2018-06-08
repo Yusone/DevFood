@@ -85,6 +85,7 @@
 
 [依赖注入神器：Dagger2详解系列 ](https://dreamerhome.github.io/2016/07/07/dagger/)
 
+[Dagger2+MVP -> DVS_Dagger/NewMVP]()
 
 # Android 基础
 
