@@ -87,7 +87,7 @@
 
 [Dagger2+MVP -> DVS_Dagger/NewMVP](/Users/davisqiao/A_Yusone/Android/DVSAndroidDemo/DVS_Dagger/app/src/main/java/com/dji/enterprise/dvs_dagger/NewMVP/)
 
-[MVP+Dagger2+Retrofit2.0+Rxjava的APP](https://github.com/babylikebird/owspace)
+[owspace仿《单读》 -> MVP+Dagger2+Retrofit2.0+Rxjava的APP](https://github.com/babylikebird/owspace)
 
 # Android 基础
 
