@@ -87,6 +87,8 @@
 
 [Dagger2+MVP -> DVS_Dagger/NewMVP](/Users/davisqiao/A_Yusone/Android/DVSAndroidDemo/DVS_Dagger/app/src/main/java/com/dji/enterprise/dvs_dagger/NewMVP/)
 
+[MVP+Dagger2+Retrofit2.0+Rxjava的APP](https://github.com/babylikebird/owspace)
+
 # Android 基础
 
 [Android基础总结：Android官方课程、View、WebView、性能优化、AS Plugin、组件化、MVP、单元测试](https://blog.lijunbo.com/1986/08/03/android-base/)
