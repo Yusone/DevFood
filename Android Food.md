@@ -29,6 +29,15 @@
 
 [分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
 
+## 资源
+[提供资源](https://developer.android.com/guide/topics/resources/providing-resources?hl=zh-cn)
+
+[访问资源](https://developer.android.com/guide/topics/resources/accessing-resources?hl=zh-cn)
+
+[Android 资源加载机制详解](https://www.jianshu.com/p/1d0bfbdaab17)
+
+[资源文件 Resources](https://www.kancloud.cn/thinkphp/android-best-practices/42175)
+
 ## Spinner
 [微调框](https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh-cn)
 
