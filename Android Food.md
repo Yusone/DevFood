@@ -45,6 +45,7 @@
 
 
 
+
 # Android 支持
 ## Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
@@ -64,6 +65,8 @@
 [android gradle依赖：implementation 和compile的区别](https://www.jianshu.com/p/f34c179bc9d0)
 
 [com.android.support冲突的解决办法](https://blog.csdn.net/yuzhiqiang_1993/article/details/78214812)
+
+[彻底弄清support支持库，以及v4 v7重复依赖问题深究](https://www.jianshu.com/p/f769ea6db2c1)
 
 ## Lambda
 [Android中的Lambda表达式详解](https://maxwell-nc.github.io/android/retrolambda.html)
@@ -98,6 +101,8 @@
 
 [owspace仿《单读》 -> MVP+Dagger2+Retrofit2.0+Rxjava的APP](https://github.com/babylikebird/owspace)
 
+
+
 # Android 基础
 
 [Android基础总结：Android官方课程、View、WebView、性能优化、AS Plugin、组件化、MVP、单元测试](https://blog.lijunbo.com/1986/08/03/android-base/)
@@ -109,6 +114,7 @@
 
 ## 书
 [Effective Java视频](http://list.youku.com/albumlist/show?id=26144426&ascending=1&page=1)
+
 
 
 # 技术博客
