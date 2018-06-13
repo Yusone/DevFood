@@ -105,8 +105,6 @@
 
 [Dagger2+MVP -> DVS_Dagger/NewMVP](/Users/davisqiao/A_Yusone/Android/DVSAndroidDemo/DVS_Dagger/app/src/main/java/com/dji/enterprise/dvs_dagger/NewMVP/)
 
-[owspace仿《单读》 -> MVP+Dagger2+Retrofit2.0+Rxjava的APP](https://github.com/babylikebird/owspace)
-
 
 ## 组件化
 [组件化在项目中的使用姿势](https://www.jianshu.com/p/ed845d796710)
@@ -137,9 +135,16 @@
 
 []()
 
-# 工具
+# Android 实战
 
 ## HTTP 免费接口
 [豆瓣250List](https://api.douban.com/v2/movie/top250?start=0&count=10)
 
 [免费的https、http接口，测试接口可以使用](https://blog.csdn.net/u012852597/article/details/78247086)
+
+
+## 仿写APP
+
+[单读：MVP+Dagger2+Retrofit2.0+Rxjava](https://github.com/babylikebird/owspace)
+
+[网易云音乐](https://github.com/aa112901/remusic)
