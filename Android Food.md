@@ -25,6 +25,9 @@
 [使用DashPathEffect绘制一条动画曲线](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0907/3429.html)
 
 ## 性能
+
+[Android性能优化:1~12](https://www.jianshu.com/p/f5514b1a826c)
+
 [如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
 
 [分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
@@ -108,6 +111,9 @@
 [组件化实践详解（一）](https://juejin.im/post/5a756ad85188257a5d2b094d)
 [组件化实践详解（二）](https://juejin.im/post/5a784953f265da4e8700a9f0)
 []()
+
+## Weex系列
+[Weex系列:1~11](https://www.jianshu.com/p/657896f60706)
 
 # Android 基础
 
