@@ -5,6 +5,11 @@
 
 # Android模块
 
+
+
+## 基础知识汇总
+[Android校招面试指南](https://github.com/LRH1993/android_interview)
+
 ## Handler
 [Handler 消息机制原理解析](http://will-ls.top/Handler.html)
 
@@ -45,8 +50,6 @@
 [微调框](https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh-cn)
 
 [android Spinner控件详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html)
-
-
 
 
 # Android 支持
