@@ -10,6 +10,8 @@
 ## 基础知识汇总
 [Android校招面试指南](https://github.com/LRH1993/android_interview)
 
+[Android 开发规范](https://github.com/Blankj/AndroidStandardDevelop)
+
 ## Handler
 [Handler 消息机制原理解析](http://will-ls.top/Handler.html)
 
