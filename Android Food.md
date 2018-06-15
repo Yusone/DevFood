@@ -150,3 +150,8 @@
 [单读：MVP+Dagger2+Retrofit2.0+Rxjava](https://github.com/babylikebird/owspace)
 
 [网易云音乐](https://github.com/aa112901/remusic)
+
+
+## 设计规范
+
+[dp_dpi_px](https://mp.weixin.qq.com/s?__biz=MzI5NDQxMjE5Mg==&mid=2247483670&idx=1&sn=b7da0134d88c06c6526b6cd4b9b89543&scene=4#wechat_redirect)
