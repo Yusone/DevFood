@@ -53,6 +53,7 @@
 
 [android Spinner控件详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0105/2264.html)
 
+[EditText使用详解](https://www.jianshu.com/p/5fe19793dd82)
 
 # Android 支持
 ## Git
