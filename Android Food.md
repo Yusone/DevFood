@@ -31,6 +31,9 @@
 
 [使用DashPathEffect绘制一条动画曲线](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0907/3429.html)
 
+## 字体
+[动态设置字体大小](https://www.jianshu.com/p/61ec1a64a746)
+
 ## 性能
 
 [Android性能优化:1~12](https://www.jianshu.com/p/f5514b1a826c)
