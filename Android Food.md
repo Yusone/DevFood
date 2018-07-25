@@ -34,6 +34,9 @@
 ## 字体
 [动态设置字体大小](https://www.jianshu.com/p/61ec1a64a746)
 
+## 动态
+[动态居中view](https://www.cnblogs.com/lijunamneg/archive/2013/04/18/3029356.html)
+
 ## 性能
 
 [Android性能优化:1~12](https://www.jianshu.com/p/f5514b1a826c)
