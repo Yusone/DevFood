@@ -61,6 +61,9 @@
 
 [EditText使用详解](https://www.jianshu.com/p/5fe19793dd82)
 
+#  技巧
+[Android APP 一键退出的方法总结分析](https://juejin.im/entry/594265a461ff4b006cc97d0a)
+
 # Android 支持
 ## Git
 [Git](https://github.com/geeeeeeeeek/git-recipes/wiki)
