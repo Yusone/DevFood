@@ -74,6 +74,8 @@
 
 [SSH原理与运用](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
 
+[忽略本地文件，远程不变git update-index --assume-unchanged directory-name/](https://stackoverflow.com/questions/12920652/git-update-index-assume-unchanged-returns-fatal-unable-to-mark-file)
+
 ## ADB
 [Awesome-ADB](https://github.com/mzlogin/awesome-adb)
 
