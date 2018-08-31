@@ -92,6 +92,7 @@
 [Android中的Lambda表达式详解](https://maxwell-nc.github.io/android/retrolambda.html)
 
 ## RxJava
+[RxJava的Single、Completable以及Maybe](https://www.jianshu.com/p/45309538ad94)
 [RxAndroid使用初探—简洁、优雅、高效](https://www.jianshu.com/p/517c3f4c7bc1)
 
 [RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
