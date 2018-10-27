@@ -111,15 +111,6 @@
 [RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
 [代码Demo -> ~/Code_Set/RxjavaRetrofitDemo](https://github.com/tough1985/RxjavaRetrofitDemo)
 
-## Dagger2
-[Dagger2 最清晰的使用教程](https://www.jianshu.com/p/24af4c102f62)
-
-[Dagger 2 完全解析（一）](https://www.jianshu.com/p/26d9f99ea3bb)
-
-[依赖注入神器：Dagger2详解系列 ](https://dreamerhome.github.io/2016/07/07/dagger/)
-
-[Dagger2+MVP -> DVS_Dagger/NewMVP](/Users/davisqiao/A_Yusone/Android/DVSAndroidDemo/DVS_Dagger/app/src/main/java/com/dji/enterprise/dvs_dagger/NewMVP/)
-
 
 ## 组件化
 [组件化在项目中的使用姿势](https://www.jianshu.com/p/ed845d796710)
