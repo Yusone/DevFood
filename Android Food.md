@@ -7,8 +7,8 @@
 
 ## 一、Android 支持
 
-1. [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
-1. [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
+#### [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
+2. [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
 
 
 
