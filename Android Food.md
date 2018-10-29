@@ -11,7 +11,9 @@
 2. [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
 
 
+## 二、Java 基础
 
+[Java位操作全面总结](https://my.oschina.net/xianggao/blog/412967)
 
 --------------------------------分割线--------------------------------
 ---------------------------------------------------------------------
