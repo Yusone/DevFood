@@ -5,15 +5,23 @@
 # 目录：
 
 
-## 一、Android 支持
+
+
+## 一、Java 基础
+
+[Java位操作全面总结](https://my.oschina.net/xianggao/blog/412967)
+
+
+## 二、Android 支持
 
 1. [RxJava](https://github.com/Yusone/DevFood/blob/master/RxJava.md)
 2. [Dagger2](https://github.com/Yusone/DevFood/blob/master/Dagger2.md)
 
+## 三、性能调优
 
-## 二、Java 基础
-
-[Java位操作全面总结](https://my.oschina.net/xianggao/blog/412967)
+1. Android Profiler
+    
+2. Layout Inspector
 
 --------------------------------分割线--------------------------------
 ---------------------------------------------------------------------
