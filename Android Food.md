@@ -12,6 +12,12 @@
 [Java位操作全面总结](https://my.oschina.net/xianggao/blog/412967)
 
 
+[面试问题40个](https://www.cnblogs.com/WangQuanLong/p/5826098.html)
+[厘米姑娘-面试题解1.0](https://www.jianshu.com/p/718aa3c1a70b)
+[厘米姑娘-面试题解2.0](https://www.jianshu.com/p/2dd855aa1938)
+
+
+
 ## 二、Android 支持
 
 1. [RxJava](https://github.com/Yusone/DevFood/blob/master/RxJava.md)
