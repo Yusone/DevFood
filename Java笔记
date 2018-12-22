@@ -1,0 +1,63 @@
+java运行时会检查数组是否越界，若越界则抛出RuntimeException异常。相较于C++，牺牲性能，提升安全。
+
+File不是文件。它既代表一个特定文件的名字，也代表目录内一系列文件的名字。
+若代表一个文件集，便可用list()方法查询这个集，返回的是一个字串数组。之所以要返回一个数组，而非某个灵活的集合类，是因为元素的数量是固定的。而且若想得到一个不同的目录列表，只需创建一个不同的File对象即可。事实上，“FilePath”（文件路径）似乎是一个更好的名字。
+
+1. Java运行效率并不算低。2. Android里运行的其实不是Java程序，只是语法是Java，虚拟机是Goolge自己的，做了些优化。3. 现在的智能机，硬件已经相当强悍了，运行效率已经不如开发效率来得重要。熟悉Java语法的人相对很多，Android这样做也是为了吸引大批草根程序员。4. 有些非常注重性能，或比较底层的程序，例如写视频解码器，通常采用NDK开发，用C/C++来写。
+
+是因为需要可移植性，一次编译，要在所有android机型上都能运行。这些机型可能会用各种各样的芯片，所以，必须有一个虚拟机层来统一各种底层的指令。
+
+synchronized保护的是对象而非代码，只要访问的是同一个对象的synchronized方法，即使是不同的代码，也会被同步顺序访问。
+对于非synchronized方法，则可以同时执行，所以，一般在保护变量时，需要在所有访问该变量的方法上加上synchronized。
+synchronized同步的对象可以是任意对象，任意对象都有一个锁和等待队列
+
+
+
+
+
+Java并发包中的容器类
+
+CopyOnWriteArrayList
+基本用法与ArrayList一样。
+其内部也是一个数组，但这个数组是以原子方式被整体更新的。
+每次修改操作，都会新建一个数组，复制原数组的内容到新数组，在新数组上进行需要的修改，然后以原子方式设置内部的数组引用，这就是写时拷贝。
+所有的读操作，都是先拿到当前引用的数组，然后直接访问该数组，在读的过程中，可能内部的数组引用已经被修改了，但不会影响读操作，它依旧访问原数组内容。
+换句话说，数组内容是只读的，写操作都是通过新建数组，然后原子性的修改数组引用来实现的。
+
+区别：
+    它是线程安全的，可以被多个线程并发访问
+    它的迭代器不支持修改操作，但也不会抛出ConcurrentModificationException
+    它以原子方式支持一些复合操作
+
+性能是很低的，它是以优化读操作为目标的，读不需要同步，性能很高，但在优化读的同时就牺牲了写的性能。
+
+CopyOnWriteArraySet
+实现了Set接口，不包含重复元素，内部，它是通过CopyOnWriteArrayList实现的
+
+ConcurrentHashMap
+是HashMap的并发版本，与HashMap相比，它有如下特点：
+    并发安全
+    直接支持一些原子复合操作
+    支持高并发、读操作完全并行、写操作支持一定程度的并行
+    与同步容器Collections.synchronizedMap相比，迭代不用加锁，不会抛出ConcurrentModificationException
+    弱一致性
+
+ConcurrentSkipListMap --> TreeMap
+
+ConcurrentSkipListSet --> TreeSet
+
+
+    无锁非阻塞并发队列：ConcurrentLinkedQueue和ConcurrentLinkedDeque
+    普通阻塞队列：基于数组的ArrayBlockingQueue，基于链表的LinkedBlockingQueue和LinkedBlockingDeque
+    优先级阻塞队列：PriorityBlockingQueue
+    延时阻塞队列：DelayQueue
+    其他阻塞队列：SynchronousQueue和LinkedTransferQueue
+无锁非阻塞是这些队列不使用锁，所有操作总是可以立即执行，主要通过循环CAS实现并发安全，阻塞队列是指这些队列使用锁和条件，很多操作都需要先获取锁或满足特定条件，获取不到锁或等待条件时，会等待(即阻塞)，获取到锁或条件满足再返回。
+
+
+Android开发艺术探索
+
+
+Activity
+onCreate和onDestroy是配对的，分别标识着Activity的创建和销毁，并且只可能有一次调用。从Activity是否可见来说，onStart和onStop是配对的，随着用户的操作或者设备屏幕的点亮和熄灭，这两个方法可能被调用多次；从Activity是否在前台来说，onResume和onPause是配对的，随着用户操作或者设备屏幕的点亮和熄灭，这两个方法可能被调用多次。
+
