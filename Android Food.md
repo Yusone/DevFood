@@ -87,6 +87,14 @@
 
 [资源文件 Resources](https://www.kancloud.cn/thinkphp/android-best-practices/42175)
 
+## 网络
+[你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
+[OkHttp3中Interceptor的使用心得](https://www.jianshu.com/p/bef36169fc0c)
+[一起来写OkHttp的拦截器](https://yuqirong.me/2017/06/25/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%86%99OkHttp%E7%9A%84%E6%8B%A6%E6%88%AA%E5%99%A8/)
+
+
+
+
 ## Spinner
 [微调框](https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh-cn)
 
