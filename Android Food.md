@@ -88,11 +88,22 @@
 [资源文件 Resources](https://www.kancloud.cn/thinkphp/android-best-practices/42175)
 
 ## 网络
+
 [你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
+
 [OkHttp3中Interceptor的使用心得](https://www.jianshu.com/p/bef36169fc0c)
+
 [一起来写OkHttp的拦截器](https://yuqirong.me/2017/06/25/%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%86%99OkHttp%E7%9A%84%E6%8B%A6%E6%88%AA%E5%99%A8/)
 
+[深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](https://cloud.tencent.com/developer/article/1042748)
 
+[Retrofit使用指南](https://www.jianshu.com/p/91ac13ed076d)
+
+## Retrofit
+[Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
+
+[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
+[代码Demo -> ~/Code_Set/RxjavaRetrofitDemo](https://github.com/tough1985/RxjavaRetrofitDemo)
 
 
 ## Spinner
@@ -131,14 +142,6 @@
 
 ## Lambda
 [Android中的Lambda表达式详解](https://maxwell-nc.github.io/android/retrolambda.html)
-
-
-
-## Retrofit
-[Retrofit 2.0 详细教程](https://blog.csdn.net/carson_ho/article/details/73732076)
-
-[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
-[代码Demo -> ~/Code_Set/RxjavaRetrofitDemo](https://github.com/tough1985/RxjavaRetrofitDemo)
 
 
 ## 组件化
